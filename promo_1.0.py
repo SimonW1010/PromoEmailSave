@@ -2,7 +2,6 @@ import time, traceback
 import datetime
 import email
 import imaplib
-import mailbox
 
 def check_email():
     EMAIL_ACCOUNT = ## Gmail account example: example@gmail.com
