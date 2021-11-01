@@ -3,10 +3,9 @@ import datetime
 import email
 import imaplib
 import mailbox
-import csv
 
 def check_email():
-    EMAIL_ACCOUNT = ## Gmmail account example: test@gmail.com
+    EMAIL_ACCOUNT = ## Gmail account example: test@gmail.com
     PASSWORD = ## Gmail App Password (Check Readme for instructions)
 
     mail = imaplib.IMAP4_SSL('imap.gmail.com')
