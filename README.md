@@ -2,7 +2,7 @@
 Saves all new incoming email sender addresses to a txt or csv file for later use or reference 
 
 ## Imports
-imports needed:
+Imports needed:
 ```
 import time
 import datetime
@@ -20,3 +20,10 @@ Follow simple instructions here under "Create and use App Passwords"
 
 ## Txt file
 Make sure the txt file is in the same directory as the code before running!
+
+### Extra
+I use keyring
+```
+import keyring
+```
+for storing my email and app password so I don't have to hard-code it
