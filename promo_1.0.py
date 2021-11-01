@@ -5,7 +5,7 @@ import imaplib
 import mailbox
 
 def check_email():
-    EMAIL_ACCOUNT = ## Gmail account example: test@gmail.com
+    EMAIL_ACCOUNT = ## Gmail account example: example@gmail.com
     PASSWORD = ## Gmail App Password (Check Readme for instructions)
 
     mail = imaplib.IMAP4_SSL('imap.gmail.com')
