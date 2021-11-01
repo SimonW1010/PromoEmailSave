@@ -1,5 +1,5 @@
 # PromoEmailSave
-Saves all new incoming emails to a txt or csv file for later use or reference 
+Saves all new incoming email sender addresses to a txt or csv file for later use or reference 
 
 ## Imports
 imports needed:
