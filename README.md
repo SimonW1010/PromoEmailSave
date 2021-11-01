@@ -21,7 +21,7 @@ Follow simple instructions here under "Create and use App Passwords"
 ## Txt file
 Make sure the txt file is in the same directory as the code before running!
 
-### Extra
+## Extra
 I use keyring
 ```
 import keyring
