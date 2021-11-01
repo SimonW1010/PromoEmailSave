@@ -9,6 +9,9 @@ import datetime
 import email
 import imaplib
 import mailbox
+```
+If you want to write to csv rather than a txt file
+```
 import csv
 ```
 
